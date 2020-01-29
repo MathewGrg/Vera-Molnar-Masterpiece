@@ -47,7 +47,7 @@ function draw()
                         {
                             strokeWeight(6);
                             stroke(20*j*i, 10*j*i, 105+j+i);
-                            r = 1+i+j;
+                            r = 4+i+j;
                         }
 
                     // j*80 for each x on the row
